@@ -24,16 +24,16 @@ Pruebas BDT, e2e y random testing.
 La aplicación crasheo dos veces con las pruebas de volumen.
 En las pruebas random salio este error:
 <br>
-![](images/crash1)
+![](/images/crash1.png)
 <br>
 En las pruebas e2e cuando se realizó el recuperar tareas y completarlas mil veces en la número 700 la aplicación dejó de funcionar, seguramente por problemas de RAM:
 <br>
-![](images/crash2)
+![](/images/crash2.png)
 <br>
 Las pruebas BDD resultaron sumamente satisfactorias ya que tienen buenos procedimientos de verificación.
 Las pruebas e2e en pequeños volumenes fueron satisfactorias, se probaron 9 funcionalidades acorde a la estrategia de pruebas.
 <br>
-![](images/e2e)
+![](/images/e2e.png)
 <br>
 
 ## RedReader
